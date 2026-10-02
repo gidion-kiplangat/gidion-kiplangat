@@ -6,7 +6,7 @@
 
 ---
 
-### Research & Technical Focus
+### Research & Technical Focus:
 I specialize in leveraging **cloud-based Earth Observation (EO)**, **hydro-environmental spatial modeling**, and **multi-temporal remote sensing** to address land degradation, water resource management, and environmental monitoring like **Soil Erosion**.
 
 - **Cloud Remote Sensing:** Google Earth Engine (GEE JavaScript/Python API), Copernicus Sentinel & Landsat workflows, cloud-masking algorithms, and time-series spectral indices (NDVI, NDBI).
@@ -15,7 +15,7 @@ I specialize in leveraging **cloud-based Earth Observation (EO)**, **hydro-envir
 
 ---
 
-### Tech Stack & Tooling
+### Tech Stack & Tooling:
 `Google Earth Engine` •  `QGIS` • `RStudio` • `Python (GeoPandas, Leafmap)` • `AutoCAD / Civil 3D` • `IMPACT Toolbox`
 
 ---
