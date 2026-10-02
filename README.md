@@ -37,4 +37,4 @@ Jomo Kenyatta University of Agriculture and Technology (JKUAT)
 
 📧 **Email:** [gidionkiplangat228@gmail.com](mailto:gidionkiplangat228@gmail.com)  
 💼 **LinkedIn:** [Gidion Kiplangat](https://www.linkedin.com/in/gidion-kiplangat)  
-🐙 **GitHub:** [@your-username](https://github.com/gidion-kiplangat)
+🐙 **GitHub:** [@gidion-kiplangat](https://github.com/gidion-kiplangat)
