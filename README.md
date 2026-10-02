@@ -22,7 +22,7 @@ I specialize in leveraging **cloud-based Earth Observation (EO)**, **hydro-envir
 
 ###  Featured Case Studies
 1.  **[RUSLE Hydro-Environmental Soil Degradation Model](./RUSLE-Erosion-Model)** — Multi-criteria soil erosion parameterization across Kajiado County and Upper Tana Catchment.
-2.  **[Lake Nakuru Watershed Pollution Hotspot Analytics](./Lake-Nakuru-Pollution-Risk)** — Non-point source agricultural runoff and municipal effluent risk modeling (~1,800 km²).
+2.  **[Lake Nakuru Watershed Pollution Hotspot Analytics](./Lake-Nakuru-Pollution-Risk)** — Non-point source agricultural runoff and municipal effluent risk modeling.
 3.  **[Cloud-Native LULC Time-Series Extraction](./GEE-LULC-Migori)** — Automated Google Earth Engine pipeline for 10-year land-use transition matrices in Migori County.
 
 
