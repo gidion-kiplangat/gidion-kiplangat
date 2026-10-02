@@ -2,7 +2,7 @@
 **Geomatics & Geospatial Engineering Specialist | Earth Observation & GeoAI Researcher**
 
   *Department of Geomatic Engineering and Geospatial Information Systems (GEGIS), JKUAT*  
-   [gidionkiplangat228@gmail.com](mailto:gidionkiplangat228@gmail.com) | 🌐 [LinkedIn](www.linkedin.com/in/gidion-kiplangat) 
+   [gidionkiplangat228@gmail.com](mailto:gidionkiplangat228@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/gidion-kiplangat) 
 
 ---
 
@@ -36,5 +36,5 @@ I specialize in leveraging **cloud-based Earth Observation (EO)**, **hydro-envir
 Jomo Kenyatta University of Agriculture and Technology (JKUAT)  
 
 📧 **Email:** [gidionkiplangat228@gmail.com](mailto:gidionkiplangat228@gmail.com)  
-💼 **LinkedIn:** [Gidion Kiplangat](www.linkedin.com/in/gidion-kiplangat)  
+💼 **LinkedIn:** [Gidion Kiplangat](https://www.linkedin.com/in/gidion-kiplangat)  
 🐙 **GitHub:** [@your-username](https://github.com/gidion-kiplangat)
